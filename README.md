@@ -4,3 +4,4 @@ This time i have exported the .tiff file for training purpose
 The problem while exporting the datasets is the machine learning module requires the size of 256*256 but the exported image has size different from it 
 At first run the digiytization code and then after run the sampling 
 Export the datasets in google drive
+keep the image and label of it in separate folder and the folder path in image_path and label_path in colab code
